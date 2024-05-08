@@ -1,4 +1,4 @@
-# Caching Layer in Node.js with REDIS.
+# Real-time Vote App
 
 ## >> Getting started
 
